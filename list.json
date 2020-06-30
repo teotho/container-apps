@@ -1,5 +1,16 @@
 [
     {
+        "description": "Surveillane and Line Marking System",
+        "repository": "qnap",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/app_gitlab.png",
+        "displayName": "Surveillance and Line Marking System",
+        "name": "sandlm",
+        "version": "1.0.0",
+        "location": "http://paperfreecontracts.com/docker-images/sandlm.tar.gz",
+        "type": "lxc"
+    },
+    {
         "description": "GitLab is a web-based Git repository manager with code reviews, issue tracking, activity feeds and wikis.",
         "repository": "dockerhub",
         "arch": "amd64",
